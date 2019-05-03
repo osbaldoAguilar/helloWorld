@@ -13,7 +13,13 @@ My first gitHub repository
 - White 
 - Black
 - Brown
-## SporF
+
+## Sport
 - Soccer
 - Basketball
 - baseball
+
+## Animals
+- dogs
+- cats
+- lizards
